@@ -1,0 +1,13 @@
+gstekyc\tml\service\KYCResultObject.class
+gstekyc\tml\service\NameMatchObject.class
+gstekyc\tml\service\AdadrObject.class
+gstekyc\tml\service\KYCObject.class
+gstekyc\tml\service\GSTwsdl_Service.class
+gstekyc\tml\service\ObjectFactory.class
+gstekyc\tml\service\GSTRequestObject.class
+gstekyc\tml\service\PradrObject.class
+gstekyc\tml\service\GSTResponseObject.class
+gstekyc\tml\service\package-info.class
+gstekyc\tml\service\GSTResultObject.class
+gstekyc\tml\service\GSTwsdl.class
+org\mycompany\Application.class
